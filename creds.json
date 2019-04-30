@@ -1,0 +1,10 @@
+{
+    "bind": {
+    },
+    "azure_DNS": {
+      "SubscriptionID": "change_to_your_keyid",
+      "ClientID": "change_to_your_secretkey",
+      "ClientSecret": "change_to_your_secretkey",
+      "TenantID": ""
+    }
+  }
